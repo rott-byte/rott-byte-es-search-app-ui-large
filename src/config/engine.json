@@ -1,0 +1,48 @@
+{
+  "engineName": "movies-en-large00",
+  "endpointBase": "https://andromeda.ent.eu-west-1.aws.found.io",
+  "searchKey": "search-1tehihn6znxqvj43i9wbfc5c",
+  "resultFields": [
+    "column23",
+    "column22",
+    "column21",
+    "column20",
+    "log",
+    "column27",
+    "column26",
+    "column25",
+    "column24",
+    "titletype",
+    "originaltitle",
+    "genres",
+    "host",
+    "endyear",
+    "event",
+    "column12",
+    "isadult",
+    "column11",
+    "column10",
+    "titleid",
+    "runtimeminutes",
+    "column19",
+    "column18",
+    "column17",
+    "message",
+    "column16",
+    "column15",
+    "column14",
+    "primarytitle",
+    "tags",
+    "column13",
+    "startyear",
+    "id"
+  ],
+  "sortFields": [
+    "startyear"
+  ],
+  "facets": [
+    "genres",
+    "titletype"
+  ],
+  "titleField": "originaltitle"
+}
